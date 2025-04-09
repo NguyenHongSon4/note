@@ -2,13 +2,13 @@
   "notes": [
     {
       "id": 1,
-      "title": "Ghi chú quan trọng",
-      "content": "Đây là nội dung của ghi chú quan trọng.",
+      "title": "Ghi chú 1",
+      "content": "Đây là nội dung 1.",
       "priority": 1,
       "createdAt": "2025-04-09T10:00:00Z",
       "modifiedAt": "2025-04-09T10:00:00Z",
-      "tags": "công việc, quan trọng",
-      "color": "#FF0000",
+      "tags": "công việc",
+      "color": "#FF0000", 
       "imagePath": null
     },
     {
@@ -18,9 +18,9 @@
       "priority": 2,
       "createdAt": "2025-04-09T11:00:00Z",
       "modifiedAt": "2025-04-09T11:00:00Z",
-      "tags": "mua sắm, cá nhân",
+      "tags": null,
       "color": "#00FF00",
-      "imagePath": "/path/to/image.jpg"
+      "imagePath": null
     }
   ]
 }
