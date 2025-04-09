@@ -7,7 +7,7 @@
       "priority": 1,
       "createdAt": "2025-04-09T10:00:00Z",
       "modifiedAt": "2025-04-09T10:00:00Z",
-      "tags": "công việc, quan trọng",
+      "tags": null,
       "color": "#FF0000",
       "imagePath": null
     },
@@ -18,7 +18,7 @@
       "priority": 2,
       "createdAt": "2025-04-09T11:00:00Z",
       "modifiedAt": "2025-04-09T11:00:00Z",
-      "tags": "mua sắm, cá nhân",
+      "tags": null,
       "color": "#00FF00",
       "imagePath": "/path/to/image.jpg"
     }
