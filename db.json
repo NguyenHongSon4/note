@@ -21,6 +21,50 @@
       "tags": null,
       "color": "#00FF00",
       "imagePath": null
+    },
+    {
+      "id": 3,
+      "title": "Danh sách công việc",
+      "content": "Đi học, làm bài tập, làm việc nhà...",
+      "priority": 3,
+      "createdAt": "2025-04-09T10:00:00Z",
+      "modifiedAt": "2025-04-09T10:00:00Z",
+      "tags": "công việc",
+      "color": "#800080",
+      "imagePath": null
+    },
+    {
+      "id": 4,
+      "title": "Lịch học",
+      "content": "Học Toán lúc 8h, Học Tin học lúc 10h, Nghỉ trưa lúc 12h...",
+      "priority": 2,
+      "createdAt": "2025-04-10T08:00:00Z",
+      "modifiedAt": "2025-04-10T08:00:00Z",
+      "tags": "học tập",
+      "color": "#0000FF",
+      "imagePath": null
+    },
+    {
+    "id": 5,
+    "title": "Danh sách mua sắm",
+    "content": "Mua gạo, mua rau, mua cá, mua sữa...",
+    "priority": 1,
+    "createdAt": "2025-04-11T14:00:00Z",
+    "modifiedAt": "2025-04-11T14:00:00Z",
+    "tags": "mua sắm",
+    "color": "#FFFF00",
+    "imagePath": null
+    },
+    {
+      "id": 6,
+      "title": "Kế hoạch cuối tuần",
+      "content": "Đi chơi công viên, xem phim, gặp bạn bè...",
+      "priority": 3,
+      "createdAt": "2025-04-12T09:00:00Z",
+      "modifiedAt": "2025-04-12T09:00:00Z",
+      "tags": "giải trí",
+      "color": "#FF00FF",
+      "imagePath": null
     }
   ],
   "accounts": [
